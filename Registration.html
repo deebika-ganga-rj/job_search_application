@@ -1,0 +1,168 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width">
+  <title>Registration</title>
+  <link href="style.css" rel="stylesheet" type="text/css" />
+  <style type="text/css">
+    i {
+      color: red;
+      font-size: 10px;
+      font-weight: 5px
+    }
+  </style>
+</head>
+
+<body>
+  <center>
+    <h1>Job Search Application</h1>
+  </center><br>
+  <center>
+    <h3>Registration</h3>
+  </center>
+  <br>
+  <form>
+    <center><label>Enter Your Name:</label><label id="star" style="color:red">*</label>
+      <ul type="">
+        <li>First Name: <input type="text" name="fname" /></li><br>
+        <li>Last Name: <input type="text" name="lname" /></li>
+      </ul><br>
+      <label>Mobile Number:</label><label id="star" style="color:red">*</label>
+      <select>
+        <option>Select</option>
+        <option>+91</option>
+        <option>+971</option>
+        <option>+62</option>
+        <option>+964</option>
+        <option>+353</option>
+      </select><input type="phno" maxlength="10" name="mnum" /><br><br>
+      <center><label>Select Date of Birth:</label><label id="star" style="color:red">*</label>
+        <br><br>
+        <input type="date" />
+      </center><br><br>
+      <center><label>Select Gender:<label id="star" style="color:red">*</label></label></center><br>
+      <center><input type="radio" value="Male" /><b>Male</b></center><br>
+      <center><input type="radio" value="Female" /><b>Female</b></center><br>
+      <center><input type="radio" value="Transgender" /><b>Transgender</b></center><br><br>
+      <label>Email:<label id="star" style="color:red">*</label><input type="email" /></label><br><br>
+      <center><label>Education Qualification:</label></center><br><br>
+      <select>
+        <option>Select Qualification</option>
+        <option>Ph.d</option>
+        <option>Post Graduate</option>
+        <option>Medicine</option>
+        <option>Paramedicine</option>
+        <option>Engineering(B.E./B.Tech)</option>
+        <option>Arts and Science</option>
+        <option>Commer</option>
+        <option>Diploma</option>
+        <option>+2</option>
+        <option>SSLC</option>
+      </select><br><br>
+      <center><label>Upload Certificate:</label>
+        <select>
+          <option>Select from device</option>
+          <option>Upload from drive</option>
+        </select>
+        <input type="file" id="file1" name="upload" />
+      </center>
+      <center>
+        <pre>
+  Note:
+  1. File should be of either .jpg, .jpeg,.png format
+  2. File size should be less than 16MB
+  3. Only one file should uploaded</pre>
+      </center>
+      <label>Enter Address:</label><label id="star" style="color:red">*</label>
+      <ul type="circle">
+        <li>Permanent Address:<br><br>
+          <label>House no/Apartment no:<input type="text" /></label>
+        </li><br>
+        <label>House Name/Apartment Name:<input type="text" /></label><br><br>
+        <label>Street and Area:<input type="text" /></label><br><br>
+        <label>Select State:
+          <select>
+            <option>Select Your State</option>
+            <option>TamilNadu</option>
+            <option>Kerala</option>
+            <option>Karnataka</option>
+            <option>Andhra Pradesh</option>
+            <option>Telangana</option>
+            <option>Maharashtra</option>
+          </select><br><br>
+          Others please specify:<input type="text" /></label><br><br>
+        <label>Select Country:
+          <select>
+            <option>Select Your Country</option>
+            <option>India</option>
+            <option>Dubai</option>
+            <option>Indonesia</option>
+            <option>Iran</option>
+            <option>Ireland</option>
+          </select>
+        </label><br><br>
+        <label>Enter PINCODE:<input type="number" maxlength="10" /></label></li><br><br>
+        <li>Residential Address:<br><br>
+          <label><input type="checkbox" />Address is same as permanent address<i>(Only if
+              applicable*)</i></label><br><br>
+          <label>House no/Apartment no:<input type="text" /></label>
+        </li><br>
+        <label>House Name/Apartment Name:<input type="text" /></label><br><br>
+        <label>Street and Area:<input type="text" /></label><br><br>
+        <label>Select State:
+          <select>
+            <option>Select Your State</option>
+            <option>TamilNadu</option>
+            <option>Kerala</option>
+            <option>Karnataka</option>
+            <option>Andhra Pradesh</option>
+            <option>Telangana</option>
+            <option>Maharashtra</option>
+          </select><br><br>
+          Others please specify:<input type="text" /></label><br><br>
+        <label>Select Country:
+          <select>
+            <option>Select Your Country</option>
+            <option>India</option>
+            <option>Dubai</option>
+            <option>Indonesia</option>
+            <option>Iran</option>
+            <option>Ireland</option>
+          </select>
+        </label><br><br>
+        <label>Enter PINCODE:<input type="number" maxlength="10" /></label></li>
+      </ul></label><br><br>
+      <center><label>Upload Address Proof:</label>
+        <select>
+          <option>Select</option>
+          <option>Aadhar card</option>
+          <option>Voter ID</option>
+          <option>Driving license</option>
+          <option>Passport</option>
+          <option>Bank Passbook</option>
+        </select><input type="file" maxlength="" />
+      </center>
+      <center>
+        <pre>
+  Note:
+  1. File should be of either .jpg, .jpeg,.png format
+  2. File size should be less than 16MB
+  3. Only one file should uploaded</pre>
+      </center>
+      <label>Create Username:<label id="star" style="color:red">*</label><input type="text" /></label><br><br>
+      <label>Create Password:<label id="star" style="color:red">*</label><input type="password"
+          maxlength="7" /></label><br><br>
+      <center><button id="submit" onclick="myfunction()">Submit</button></center>
+<br><br>
+<a href="C:\Users\deebi\OneDrive\Desktop\Task 2\Homepage.html"><p style="color:blue"><-Back to HomePage</p></a>
+      <script src="script.js"></script>
+      <script src="https://replit.com/public/js/replit-badge-v2.js" theme="dark" position="bottom-right"></script>
+      <hr />
+      <p><i>*This app is valid only in certain regions</i></p>
+    </center>
+  </form>
+</body>
+
+</html>
