@@ -1,0 +1,54 @@
+ <div style="opacity: 1; mix-blend-mode: normal; border-style: solid; border-style: solid; border-top-left-radius: 10px; border-top-right-radius: 10px; border-bottom-left-radius: 10px; border-bottom-right-radius: 10px; align-items: inherit; border-radius: 10px; align-items: flex-start; align-items: flex-start; align-items: flex-start; justify-content: flex-start">
+    <div style="opacity: 1; mix-blend-mode: normal; border-style: solid; border-style: solid; align-items: inherit"></div>
+    <p style="line-height: undefined; letter-spacing: 0%; text-transform: none; text-align: left; vertical-align: top; font-family: Inter; font-size: 20px; color: rgba(255, 255, 255, 1); font-weight: 600; width: 100%">
+        Job Search Application
+    </p>
+    <p style="line-height: undefined; letter-spacing: 0%; text-transform: none; text-align: left; vertical-align: top; font-family: Inter; font-size: 20px; color: rgba(0, 0, 0, 1); font-weight: 600; width: 100%">
+        Hello User!!!
+    </p>
+    <div style="opacity: 1; mix-blend-mode: normal; align-items: inherit">
+        <div style="opacity: 1; mix-blend-mode: normal; align-items: inherit"></div>
+        <div style="opacity: 1; mix-blend-mode: normal; border-style: solid; border-style: solid; border-top-left-radius: 20px; border-top-right-radius: 20px; border-bottom-left-radius: 20px; border-bottom-right-radius: 20px; align-items: inherit; border-radius: 20px"></div>
+    </div>
+    <div style="opacity: 1; mix-blend-mode: normal; align-items: inherit">
+        <div style="opacity: 1; transform: rotate(-1.73570461155594deg); mix-blend-mode: normal; border-color: rgba(NaN, NaN, NaN, undefined); border-width: 1px; border-style: solid; border-style: solid; align-items: inherit"></div>
+        <div style="opacity: 1; transform: rotate(-1.73570461155594deg); mix-blend-mode: normal; border-color: rgba(NaN, NaN, NaN, undefined); border-width: 5px; border-style: solid; border-style: solid; align-items: inherit"></div>
+        <div style="opacity: 1; transform: rotate(1.046254594408809e-7deg); mix-blend-mode: normal; border-color: rgba(NaN, NaN, NaN, undefined); border-width: 5px; border-style: solid; border-style: solid; align-items: inherit"></div>
+        <div style="opacity: 1; mix-blend-mode: normal; border-color: rgba(NaN, NaN, NaN, undefined); border-width: 5px; border-style: solid; border-style: solid; align-items: inherit"></div>
+        <div style="opacity: 1; mix-blend-mode: normal; border-style: solid; border-style: solid; align-items: inherit"></div>
+        <div style="opacity: 1; mix-blend-mode: normal; border-style: solid; border-style: solid; align-items: inherit"></div>
+        <p style="line-height: undefined; letter-spacing: 0%; text-transform: none; text-align: left; vertical-align: top; font-family: Inter; font-size: 16px; color: rgba(0, 0, 0, 1); font-weight: 600; width: 100%">
+            Your Profile
+        </p>
+    </div>
+    <div style="opacity: 1; mix-blend-mode: normal; align-items: inherit">
+        <div style="opacity: 1; mix-blend-mode: normal; align-items: inherit">
+            <div style="opacity: 1; mix-blend-mode: normal; border-style: solid; border-style: solid; align-items: inherit"></div>
+            <div style="opacity: 1; mix-blend-mode: normal; align-items: inherit"></div>
+        </div>
+        <div style="opacity: 1; mix-blend-mode: normal; align-items: inherit">
+            <div style="opacity: 1; mix-blend-mode: normal; border-style: solid; border-style: solid; align-items: inherit"></div>
+            <div style="opacity: 1; mix-blend-mode: normal; align-items: inherit"></div>
+        </div>
+        <div style="opacity: 1; mix-blend-mode: normal; align-items: inherit">
+            <div style="opacity: 1; mix-blend-mode: normal; border-style: solid; border-style: solid; align-items: inherit"></div>
+            <div style="opacity: 1; mix-blend-mode: normal; align-items: inherit"></div>
+        </div>
+        <div style="opacity: 1; mix-blend-mode: normal; border-style: solid; border-style: solid; align-items: inherit"></div>
+        <p style="line-height: undefined; letter-spacing: 0%; text-transform: none; text-align: left; vertical-align: top; font-family: Inter; font-size: 16px; color: rgba(0, 0, 0, 1); font-weight: 600; width: 100%">
+            Community
+        </p>
+    </div>
+    <div style="opacity: 1; mix-blend-mode: normal; align-items: inherit">
+        <div style="opacity: 1; mix-blend-mode: normal; align-items: inherit">
+            <div style="opacity: 1; mix-blend-mode: normal; border-style: solid; border-style: solid; align-items: inherit"></div>
+            <div style="opacity: 1; mix-blend-mode: normal; border-style: solid; border-style: solid; align-items: inherit"></div>
+            <div style="opacity: 1; mix-blend-mode: normal; align-items: inherit"></div>
+        </div>
+        <div style="opacity: 1; mix-blend-mode: normal; align-items: inherit">
+            <p style="line-height: undefined; letter-spacing: 0%; text-transform: none; text-align: left; vertical-align: top; font-family: Inter; font-size: 16px; color: rgba(0, 0, 0, 1); font-weight: 600; width: 100%">
+                E-learning
+            </p>
+        </div>
+    </div>
+</div>
